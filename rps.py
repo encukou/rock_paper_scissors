@@ -9,7 +9,7 @@ def input_human_play(input=input):
 
 
 def is_valid_play(play):
-    return play in ['rock', 'paper', 'scissors']
+    return play in ['metal', 'paper', 'scissors']
 
 
 def generate_computer_play():
